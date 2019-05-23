@@ -1,5 +1,5 @@
 
-#Happy-House-problem
+# Happy-House-problem
 
 - The dataset contains a series of images that can be used to solve the Happy House problem! 
 - We need to build an artificial neural network that can detect smiling faces.
